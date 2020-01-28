@@ -1,1 +1,3 @@
-$ C:\LuaTest\LUAGO\go\ch01\bin>luago
+$ go install luago
+
+$ ch01\bin\luago
