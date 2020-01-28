@@ -6,4 +6,5 @@
 ### 内容
 cmd
 ### 注意
-因为Windows下GOPATH不能为相对路径，只能为绝对路径，所以书上的PWD不可用，需对应具体路径，如：C:\LuaTest\LUAGO（这是我的LUAGO路径）。
++ 因为Windows下GOPATH不能为相对路径，只能为绝对路径，所以书上的PWD不可用，需对应具体路径，如：C:\LuaTest\LUAGO（这是我的LUAGO路径）
++ 命令行以“$”开头，后跟输出结果
