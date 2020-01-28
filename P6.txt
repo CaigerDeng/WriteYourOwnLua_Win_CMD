@@ -1,3 +1,4 @@
 $ go install luago
 
+//这里已省略C:\LuaTest\LUAGO\go>
 $ ch01\bin\luago
