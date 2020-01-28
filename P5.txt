@@ -1,0 +1,5 @@
+// 位置：中间CMD
+// 我的LUAGO路径为C:\LuaTest\LUAGO
+$ cd C:\LuaTest\LUAGO\go
+$ md ch01\src\luago
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch01"
