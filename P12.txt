@@ -1,0 +1,12 @@
+// 位置：上面
+$ luac hello_world.lua
+$ luac -o hw.luac hello_world.lua
+$ luac -s hello_world.lua
+$ luac -p hello_world.lua
+
+
+
+
+
+
+

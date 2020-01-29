@@ -1,0 +1,10 @@
+// 位置：上面
+$ luac
+
+
+
+// 位置：下面
+$ cd C:\LuaTest\LUAGO\lua\ch02
+
+
+

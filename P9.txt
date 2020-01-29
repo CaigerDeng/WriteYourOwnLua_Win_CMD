@@ -1,0 +1,9 @@
+//此处CMD指令可参考https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch01 ch02\ /e
+$ md ch02\src\luago\binchunk
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch02"
+$ md C:\LuaTest\LUAGO\lua\ch02
+
+
