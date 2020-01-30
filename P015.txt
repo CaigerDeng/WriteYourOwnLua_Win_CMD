@@ -1,0 +1,11 @@
+// 位置：上面
+
+$ luac -l -l hello_world.lua
+
+
+
+
+
+
+
+

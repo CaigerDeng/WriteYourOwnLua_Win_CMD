@@ -1,0 +1,11 @@
+// 位置：上面
+// Windows无xxd指令，看看就好
+// $ xxd -u -g l hello_world.luac
+
+
+
+
+
+
+
+

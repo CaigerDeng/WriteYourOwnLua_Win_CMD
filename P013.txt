@@ -1,0 +1,12 @@
+// 位置：下面
+// 如果前面没生成过hello_world.luac，则需要下面这句cmd
+// $ luac -o hello_world.luac hello_world.lua
+$ luac -l hello_world.luac
+
+
+
+
+
+
+
+
