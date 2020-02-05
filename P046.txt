@@ -1,0 +1,7 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+
+
+
+
