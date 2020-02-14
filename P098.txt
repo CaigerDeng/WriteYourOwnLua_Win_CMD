@@ -1,0 +1,16 @@
+// 位置：上面
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, b, c, d, e; c = true
+$ ^Z
+
+
+
+
+// 位置：下面
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, b, c, d, e; c = a > b
+$ ^Z
+
+
