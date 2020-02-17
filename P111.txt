@@ -1,0 +1,9 @@
+
+
+
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ for i=1, 100, 2 do f() end
+$ ^Z
+
+

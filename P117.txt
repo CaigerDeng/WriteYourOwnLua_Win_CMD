@@ -1,0 +1,15 @@
+// 位置：上面
+// 我的LUAGO路径为C:\LuaTest\LUAGO
+$ cd C:\LuaTest\LUAGO\go
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch06"
+$ go install luago
+
+
+
+
+// 位置：中间
+$ luac ..\lua\ch06\sum.lua
+$ .\ch06\bin\luago luac.out
+
+
+

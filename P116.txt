@@ -1,0 +1,5 @@
+
+// 我的LUAGO路径为C:\LuaTest\LUAGO
+$ luac -l C:\LuaTest\LUAGO\lua\ch06\sum.lua
+
+
