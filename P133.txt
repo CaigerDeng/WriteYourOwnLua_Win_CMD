@@ -1,0 +1,9 @@
+
+
+
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, t, k, v, e; v = t[k]; v = t[100]
+$ ^Z
+
+
