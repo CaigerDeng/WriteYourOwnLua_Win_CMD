@@ -1,0 +1,11 @@
+
+
+
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, b, c
+$ local function f() end
+$ local g = function() end
+$ ^Z
+
+
