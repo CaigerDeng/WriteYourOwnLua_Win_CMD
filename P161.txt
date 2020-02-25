@@ -1,0 +1,15 @@
+
+
+// 位置：上面
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, obj; obj:f(a) 
+$ ^Z
+
+
+// 位置：中间
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local a, obj; obj.f(obj, a) 
+$ ^Z
+
