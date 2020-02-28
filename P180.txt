@@ -1,0 +1,22 @@
+
+// 位置：上面
+$ cd C:\LuaTest\LUAGO\go
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch09"
+$ go install luago
+
+
+
+
+
+// 位置：中间
+$ type ..\lua\ch02\hello_world.lua
+
+
+
+
+
+// 位置：下面
+$ luac ..\lua\ch02\hello_world.lua
+$ .\ch09\bin\luago luac.out
+
+
