@@ -1,0 +1,10 @@
+
+
+
+// 最后一行^Z是按Ctrl+z出来的
+$ luac -l -
+$ local u
+$ function f() local a, b, k, v, e; u[k] = v; u[100] = "foo" end
+$ ^Z
+
+

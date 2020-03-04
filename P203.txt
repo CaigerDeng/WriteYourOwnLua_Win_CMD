@@ -1,0 +1,6 @@
+
+
+$ luac ..\lua\ch10\test.lua
+$ .\ch10\bin\luago luac.out
+
+
