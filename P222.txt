@@ -1,0 +1,6 @@
+
+
+$ luac ..\lua\ch11\vector2.lua
+$ .\ch11\bin\luago luac.out
+
+

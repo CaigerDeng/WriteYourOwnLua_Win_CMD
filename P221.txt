@@ -1,0 +1,10 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch11"
+$ go install luago
+
+
+
+
+
