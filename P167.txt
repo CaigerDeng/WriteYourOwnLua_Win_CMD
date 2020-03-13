@@ -1,7 +1,7 @@
 
 
 $ cd C:\LuaTest\LUAGO\go
-$ xcopy ch08 ch09\ /e
+$ xcopy ch08 ch09\ /e /q
 $ set GOPATH="C:\LuaTest\LUAGO\go\ch09"
 
 

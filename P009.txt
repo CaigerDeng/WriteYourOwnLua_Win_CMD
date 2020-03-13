@@ -1,7 +1,12 @@
 //此处CMD指令可参考https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy
+// 在cmd中输入
+// $ xcopy /? 
+// 也可查看说明
+// /e 复制来源文件夹所有内容
+// /q 不显示复制具体文件名
 
 $ cd C:\LuaTest\LUAGO\go
-$ xcopy ch01 ch02\ /e
+$ xcopy ch01 ch02\ /e /q
 $ md ch02\src\luago\binchunk
 $ set GOPATH="C:\LuaTest\LUAGO\go\ch02"
 $ md C:\LuaTest\LUAGO\lua\ch02

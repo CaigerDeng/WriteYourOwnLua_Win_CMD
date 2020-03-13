@@ -1,7 +1,7 @@
 
 
 $ cd C:\LuaTest\LUAGO\go
-$ xcopy ch03 ch04\ /e
+$ xcopy ch03 ch04\ /e /q
 $ md ch04\src\luago\api
 $ md ch04\src\luago\state
 $ set GOPATH="C:\LuaTest\LUAGO\go\ch04"
