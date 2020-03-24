@@ -1,0 +1,8 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch13 ch14\ /e /q
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch14"
+$ md ch14\src\luago\compiler\lexer
+
+
