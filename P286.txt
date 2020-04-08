@@ -1,0 +1,11 @@
+
+
+
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch15"
+$ go install luago\compiler\ast
+
+
+
+
+
+
