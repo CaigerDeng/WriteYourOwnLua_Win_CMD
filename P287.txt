@@ -1,0 +1,8 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch15 ch16\ /e /q
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch16"
+$ md ch16\src\luago\compiler\parser
+
+
