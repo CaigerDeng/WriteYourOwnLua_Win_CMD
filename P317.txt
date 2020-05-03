@@ -1,0 +1,8 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch16 ch17\ /e /q
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch17"
+$ md ch17\src\luago\compiler\codegen
+
+
