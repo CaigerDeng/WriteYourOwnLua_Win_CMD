@@ -1,0 +1,8 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch17 ch18\ /e /q
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch18"
+$ md ch18\src\luago\stdlib
+
+
