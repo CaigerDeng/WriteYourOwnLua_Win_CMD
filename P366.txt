@@ -1,0 +1,12 @@
+
+//位置：上面
+$ .\ch18\bin\luago ..\lua\ch02\hello_world.lua 
+
+
+
+
+
+
+
+
+
