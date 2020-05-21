@@ -1,0 +1,8 @@
+
+
+$ cd C:\LuaTest\LUAGO\go
+$ xcopy ch19 ch20\ /e /q
+$ set GOPATH="C:\LuaTest\LUAGO\go\ch20"
+$ md C:\LuaTest\LUAGO\lua\ch20
+
+
