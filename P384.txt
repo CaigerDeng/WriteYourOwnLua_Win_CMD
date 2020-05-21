@@ -1,0 +1,17 @@
+
+
+
+// 位置：上面
+$ lua -e "for k, v in pairs(package.searchers) do print(k, v) end"
+
+
+
+// 位置：下面
+$ lua -e "print(package.path)"
+
+
+
+
+
+
+

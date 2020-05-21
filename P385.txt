@@ -1,0 +1,17 @@
+
+
+
+// 位置：上面
+$ lua -e "print(package.searchpath('foo.bar', package.path))"
+
+
+
+// 位置：下面
+$ lua -e "print(package.config)"
+
+
+
+
+
+
+
