@@ -1,0 +1,10 @@
+
+
+
+
+// 位置：上面
+$ ..\..\go\ch20\bin\luago test.lua
+
+
+
+
